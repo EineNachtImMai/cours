@@ -1,0 +1,15 @@
+# ***Exercice 1***
+- assassinat JFK
+- chemtrails
+- reptiliens
+- illuminati
+- climatisceptiques
+-
+- # ***Atelier B***
+- Les licornes existent
+	- Y'a des photos wsh
+	- Y'a des traces de ce concept dans plein de cultures indépendantes
+	- Les chevaux descendent des licornes
+	- Internet ne ment jamais
+	- Je suis une licorne
+	- Les gens puissants nous le cachent car leur sang rend immortel

@@ -1,0 +1,95 @@
+- La ***reproduction asexuée*** produit des **clones**, càd des **individus génétiquement identiques.**
+- à l'inverse, la ***reproduction sexuée*** est caractérisée par l'alternance de la **méiose** et de la **fécondation**, deux mécanismes qui tout en assurant la stabilité du génome, sont responsables de la formation d'**individus uniques** sur le plan génétique
+- [[cycle cellulaire]]
+-
+- # ***I) La mitose***
+	- > ***définition***: division d'une cellule en 2 cellules filles génétiquement identiques à la cellule mère
+	- ***Rôles***:
+		- 1) Unicellulaires: assurer la reproduction
+		- 2) Pluricellulaires:
+		  developpement embryonaire
+		  croissance
+		  reparation des tissus
+	- ***Processus***:
+		- 4 phases: **prophase, métaphase, anaphase, télophase** puis ensuite cytodiérèse
+	- ***Cellules qui subissent la mitose:***
+		- **cellules sommatiques**: cellule du corms en général
+		- **cellules germinales**: cellules qui bordent la paroi des gonades (spermatogonies et ovogonies)
+	- ## ***a) Prophase***
+		- **1)** Les chromosomes s'individualisent, la chromatine se condense, le centrosome a été dupliqué en fin d'interphase
+		- **2)** les chromosomes s'épaississent et se raccourcissent
+		- **3)** les chromosomes sont maintenant très courts et épais. Les deux centrosomes vont se séparer.
+		- **4)** les 2 asters sont aux 2 pôles opposés. les microtubules émis par chacun d'eux les maintiennent en place et constituent le fuseau
+		- **5)** la membrane nucléaire disparaît. Les chromosomes ne sont plus dans un noyau, mais sont enprisonnés dans la cage constituée par les fibres du réseau
+	- ## ***a-b) Prométaphase***
+		- **1)** De nombreux microtubules dynamiques sont polymérisés à partir des 2 pôles
+		- **2)** ces microtubules s'allongent en direction des chromosomes. lorsqu'un d'entre eux rencontre le centromère d'un chromosome, il le capture. Les autres microtubules continuent à "chercher"
+		- **3)** le chromosome est capturé par un autre microtube venant d'un autre aster. L'attachement du chromosome au fuseau est maintenant bipolaire
+		- **4)** Par le jeu de la polymérisation et de la dépolymérisation, le chromosome capturé est placé à l'équateur du fuseau (15 a 40 micrutibes s'attachent au kinétochore d'un chromosome de mammifère)
+		- **5)** un autre chromosome est capturé
+		- **6)** il est a son tour placé a l'equateur du fuseau
+		- **7)** le dernier chromosome vient d'être capturé de manière unipolaire. La séparation des chromatides (anaphase) est bloquée tant que TOUS les chromosomes ne sont pas alignés et reliés aux 2 pôles
+	- ## ***b) Métaphase***
+		- tous les chromosomes sont maintenant placés à l'équateur du fuseau et constituent la plaque équatoriale. L'ensemble du système est vérifié par un "checkpoint" et attend le feu vert pour d"clencher l'anaphase
+	- ## ***c) Anaphase***
+		- **1)** Tous les kinétochores se séparent en même temps. Les microtubules attachés aux kinétochores se dépolymérisent et les chromosomes montent vers les pôles
+		- **2)** les 2 lots de chromatides, maintenant individualisés, gagnent les pôles du fuseau
+		- **3)** les 2 lots de chromosomes sont rassemblés aux pôles. Un cercle de fibres contractiels (alpha-actine-myosine) apparaît autour de la cellule dans le pan de l'équateur.
+	- ## ***d) Télophase***
+		- **1)** Ces fibres se contractent. Elles réalisent un anneau contractile qui resserre le diamètre de la cellule au niveau de l'équateur.
+		- **2)** Le processus se poursuit. La cellule se partage en 2 progressivement.
+		- **3)** La cellule est presque entièrement partagée. La membrane nucléaire se reconstitue autour de chaque lot de chromosomes.
+		- **4)** Les chromosomes se décondensent progressivement.
+	- ## ***e) 2 cellules***
+		- **1)** Les chromosomes poursuivent leur décondensation.
+		- **2)** Ces cellules vont poursuivre leur [[cycle cellulaire]] et éventuellement, après duplication de leur ADN, entrer à leur tour dans une phase myotique suivante.
+-
+- # ***II) La méiose***
+	- ## ***1) généralités***
+		- Mode de division cellulaire réservé aux **cellules germinales** (gamètes)
+		- 2 divisions successives et 1 seul cycle de réplication
+		- production de 4 cellules filles haploïdes (n) à partir d'une cellule initiale diploïde (2n)
+		- > Assure la **réduction du nombre de chromosomes** en un jeu haploïde et le **brassage des gènes équivalents** d'origine maternelle et paternelle (allèles).
+	- ## ***2) vue d'ensemble***
+		- voir polys
+-
+-
+-
+	- ## ***1) prophase I***
+		- **1)** stade **Leptotène**
+			- les chromosomes deviennent apparents (chromosomes sous forme de filaments irréguliers)
+			- Rapprochement des chromosomes homologues
+			- Duplication et début de migration des centrioles
+		- **2)** stade **Zygotène**
+			- Migration des centrioles aux pôles opposés de la cellule
+			- début d'appariement des chromosomes homologues ***= synapsis***
+			- début de formation du ***complexe synaptonémal***
+		- **3)** stade **Pachytène**
+			- synapsis complet
+			- Les chromosomes, plus courts et épais, sont sous forme de ***bivalent*** ou ***tétrade***
+				- => Vésicule sexuelle chez le mâle (chromosomes X et Y inactivés)
+			- ***crossing-over*** (ou revombinaison) = échange de matériel génétique entre les chromosomes homologues.
+		- **4)** stade **Diplotène**
+			- désintégration du complexe synaptonémal
+			- disparition de la vésicule sexuelle
+			- Les bivalents se repoussent, sauf au lvl des ***chiasma*** (au lvl desquels ils sont attachés) = support physique du crossing-over
+		- **5)** stade **Diacinèse**
+			- Condensation maximale des chromosomes (youjours reliés entre eux par les chiasma aux extrémités)
+			- disparition de l'enveloppe nucléaire
+	- ## ***2) métaphase I***
+		- les chromosomes homologues se disposent de part et d'autre de la plaque équatoriale ( = PE ) (disposition aléatoire)
+		- les chiasma (au lvl desquels ils sont attachés) sont sur la PE
+		- Les centromères sont de part et d'autre de la PE
+	- ## ***3) anaphase I***
+		- rupture des chiasma
+		- ségrégation (aléatoire) des ***chromosomes homologues*** aux pôles opposés de la cellule
+	- ## ***4) télophase I***
+		- Reconstitution de la membrane nucléaire autour de 2 lots de chromosomes homologues
+		- Cytodiérèse, suivie d'une courte interphase ***sans phase S***
+	- ## ***5) méiose 2***
+		- voir le poly
+	- ## ***la méiose assure le brassage de l'information génétique***
+		- ***méiose I:*** crossing-overs => ségrégation aléatoire
+			- **brassage INTRA-chromosomique**
+		- ***méiose 2:*** ségégation aléatoire
+			- **brassage INTERchromosomique**

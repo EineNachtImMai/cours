@@ -1,0 +1,52 @@
+{:blocks (
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65c3880e-ae1a-4be8-9c8f-5b6a7b1bfcc1"}
+:block/parent 
+{:block/uuid #uuid "65c3880e-ae1a-4be8-9c8f-5b6a7b1bfcc1"}
+:block/uuid #uuid "65c3881c-c184-40a2-9b8d-99cb800fd45a"} 
+{:block/created-at 1707313181060
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "65c3881c-c184-40a2-9b8d-99cb800fd45a"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5635f960-c5be-11ee-b6f0-4ba10c80dd50"
+:noFill false
+:point [328 144]
+:parentId "65c3880e-ae1a-4be8-9c8f-5b6a7b1bfcc1"
+:collapsedHeight 0
+:nonce 1707313177593}}
+:block/updated-at 1707313181060})
+:pages (
+{:block/uuid #uuid "65c3880e-ae1a-4be8-9c8f-5b6a7b1bfcc1"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "65c3880e-ae1a-4be8-9c8f-5b6a7b1bfcc1"
+:name "la vie de la cellule"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("5635f960-c5be-11ee-b6f0-4ba10c80dd50")}}
+:block/updated-at 1707313181060
+:block/created-at 1707313166360
+:block/type "whiteboard"
+:block/name "la vie de la cellule"
+:block/original-name "la vie de la cellule"})}

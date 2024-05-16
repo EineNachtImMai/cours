@@ -1,0 +1,8 @@
+- L'amorce E car elle a le bon ordre pour l'amorce 3' **faux: c'est la D qui s'apparie au coté 3'**
+- l'amorce A est la 5' **faux: c'est la F qui s'apparie au complémentaire du coté 5'**
+-
+-
+- ***----***BamH1+EcoR1/2000/BamH1/2000/BamH1***----***
+- -EcoR1+BamH1/**2000**/BamH1/**2000**/BamH1/-
+-
+-

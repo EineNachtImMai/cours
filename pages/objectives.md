@@ -1,0 +1,5 @@
+- effrey epstein
+- Sadam hussein
+- bin laden
+- Mitosis
+- hiroshima
