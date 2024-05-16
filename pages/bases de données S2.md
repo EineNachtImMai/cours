@@ -3,7 +3,7 @@
 - $\pi_{prenom,nom}\left(Notes-\sigma_{note<10}\left(Notes\right)\right)_{}$
 -
 -
-- t
+-
 - ***SQL:***
 	- **LDD**: langage de definition de donnee
 		- ```
