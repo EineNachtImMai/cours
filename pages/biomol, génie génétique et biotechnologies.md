@@ -313,4 +313,10 @@
 	- ceci conduit à une **activation du complément** qui détruit les cellules endothéliales et provoque des thromboses locales
 	- > planche ici: tissu donné d'un porc
 	- > planche ici: xénotransplantation
-	-
+-
+-
+-
+-
+-
+-
+-

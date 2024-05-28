@@ -54,3 +54,20 @@
 	- lost gen => greatest gen => Silent generation => boomers => Gen X => Millenials => Gen Z => Gen \alpha
 -
 -
+-
+- # ***tf is going on***
+	- many (282) people were arrested that night following the protests taking place at both City College of NY and Columbia uni.
+	- the protests were violent (kinda) bc protesters vs counter-protesters
+	- the uni takes measures to avoid such protests in the future
+	- it included ppl not from the uni
+-
+-
+- i'm playing all the random interactions w/ guys (close one, barista, random guy with a 4.7 rating or sum idfk)
+- --> the whole scene you watched will be put on moodle
+- --> DONT LSITEN OT TEH DIALOGUE PLSPLSPLSPLSPLS
+- --> ur job: DUB the scene
+- you can ilagine the dialogue or voiceover internal thoughts
+-
+- first scene: idk like shes fn leaving or sumn and theyre talking about what they'll do with their day
+- second: helo u want cofe ? yes. okeeeeeeee
+-
