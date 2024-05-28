@@ -313,10 +313,16 @@
 	- ceci conduit à une **activation du complément** qui détruit les cellules endothéliales et provoque des thromboses locales
 	- > planche ici: tissu donné d'un porc
 	- > planche ici: xénotransplantation
--
--
--
--
--
+- ![image.png](../assets/image_1716901629248_0.png)
+- # ***Cellule souche adulte***
+	- Source : tissu adulte spécialisé
+	- capacité d’auto-renouvellement
+	- capacité à générer des cellules spécialisées
+	- unipotente (un type de cellules spécialisées) ou multipotente
+	- (plusieurs types de cellules spécialisées)
+	- But thérapeutique:
+		- Réparer une fonction déficiente
+		- Reconstitution du tissu d’origine (moëlle osseuse, peau,
+		  cartilage, muscle, neurones…)
 -
 -
