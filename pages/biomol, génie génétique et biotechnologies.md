@@ -439,5 +439,4 @@
 		- choix de lrépissage selon la régulation cellulaire (sliceosome se comporte de différentes manières)
 		- {{renderer excalidraw, excalidraw-2024-06-04-14-49-24}}
 		- ## ***exemple du gène alpha-tropomyosine***
-		- [[exos bio fin 2024]]
-		-
+- [[exos bio fin 2024]]
