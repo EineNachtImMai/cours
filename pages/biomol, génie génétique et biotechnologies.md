@@ -313,6 +313,64 @@
 	- ceci conduit à une **activation du complément** qui détruit les cellules endothéliales et provoque des thromboses locales
 	- > planche ici: tissu donné d'un porc
 	- > planche ici: xénotransplantation
+- **La préparation de cellules et d'organes pour la transplantation à l'homme.**
+	- Le clonage des animaux par transfert de noyaux
+	- 1995, naissance de Megan et Morag :
+	- Le matériel génétique provient de la culture de cellules prélevées sur un embryon de neuf jours.
+	- Megan et morag sont des **copies génétiques**, ou clones de **l’embryon initial**.
+	- La nouveauté était que des cellules parfaitement différenciées génétiquement reprogrammables
+	- 1997, essais à partir d’une brebis adulte ont conduit à **Dolly**, **le premier mammifère cloné à partir d’un adulte.**
+	- Les **objectifs**étaient l’**amélioration des animaux d’élevage** mais aussi d’ouvrir de **nouvelles applications biologiques et médicales.**
+	- **Toutes les méthodes de clonage** reposent sur le principe du transfert de noyau cellulaire.
+	- Ce transfert **nécessite deux cellules** :
+	- -une cellule réceptrice, ovule non-fécondé prélevé peu après l’ovulation
+	- -une cellule donneuse, celle qui **doit être copiée. **
+	- Dans ces techniques **l’ovule récepteur** est **fixé au bout d’une pipette**
+	- Son **ADN nucléaire est aspiré** en utilisant une **micropipette**
+	- Stade suivant, on fusionne la cellule donneuse tout entière avec l’ovule récepteur
+	- **Certaines des cellules fusionnées** **commencent** alors à se développer** comme dans un embryon normal**, les cellules sont alors **implantées dans l’utérus d’une mère porteuse** pour former finalement un **jeune animal**.
+	- **D’autres laboratoires**  ont utilisé des techniques très proches de celle utilisée pour
+	- Dolly pour créer des clones:
+		- De souris
+		- De bovins
+		- De porcs
+		- etc…
+	- Les cellules souches : notions fondamentales et applications
+	- POTENTIEL :
+		- Réparer
+		- Renouveler
+		- Fabriquer
+	- **Une cellule souche est capable de:**
+		- S'auto renouveler par divisions pendant une longue période
+		- Se différencier en cellule spécialisée sous l’influence de stimuli externes
+	- **Les différents types de cellules souches:**
+		- 4 Types de cellules souches :
+		- -**Totipotente** : tous les types cellulaires y compris les cellules extra-embryonnaire
+		- -**Pluripotente** : toutes les cellules spécialisées d’un individu
+		- -**Multipotente**: plusieurs types de cellules spécialisées
+		- -**Unipotente**: un seul type de cellule spécialisée
+	- Fécondation: fusion des noyaux du spermatozoïde et de l’ovule.
+	- Puis le zygote(l'oeuf) subit des divisions mitotiques consécutives et rapides:
+- La segmentation
+- L'œuf unicellulaire est clivé en une multitude de cellules totipotentes.
+- Au niveau du blastocystis cellules multipotentes (Cellules ES)
+- -Greffe de moelle osseuse (depuis 30 ans)
+- -Premier essai thérapie cellulaire chez l’homme : Traitement de l’insuffisance cardiaque par des cellules souches de muscles squelettiques.
+- **Limite dans l’utilisation des cellules souches adultes humaines:**
+- -Faible abondance dans les tissus (0,1-0,01% dans la moelle osseuse humaine).
+- -Amplification limitée ex vivo.
+- -Ne se différencient pas en tous types cellulaires.
+- **Les Cellules Souches Embryonnaires de Souris**
+- Isolées en 1981, en 1995 pour la première fois on montre qu’elles peuvent, dans des boites de cultures, se différencier en de nombre type cellulaires
+- **Production de cellules souches embryonnaires (ES)**
+- **Source:**
+- Blastocyste
+- **Intérêt:**
+- Obtention de cellules embryonnaires pluripotentes et qui peuvent s’auto-renouveler et qu’on peut cultiver.
+- **Les Cellules ES Humaines**
+- En novembre 1998, 2 groupes (USA) isolant des cellules souches embryonnaires à partir d'embryons humains de 5 jours (fécondation in vitro et développement de l’embryon dans le laboratoire pdt 5 jours avant d’isoler les cellules souches)
+- Source potentielle de cellules thérapeutiques pour la médecine régénérative.
+- Cellule mésenchymateuse
 - ![image.png](../assets/image_1716901629248_0.png)
 - # ***Cellule souche adulte***
 	- Source : tissu adulte spécialisé
@@ -325,4 +383,61 @@
 		- Reconstitution du tissu d’origine (moëlle osseuse, peau,
 		  cartilage, muscle, neurones…)
 -
+- ========================================================================================================
 -
+- ***ARN polymétase procaryote (poly)***
+-
+- ***Chez les procaryotes*** les genes sont souvent regroupés en unités fonctionnelles: les opérons.
+- Un opéron contrôle un nombre variable de gènes d'un même promoteur.
+- un seul transcrit mais qui code pour plusieurs protéines différentes.
+- les fènes de l'opéron sonr:
+	- co-transcrites
+	- co-régulés
+	- co-traduits
+-
+- ### ***Régulation de la transciption chez les procaryotes***
+	- > planche modèle simplifié de la régulation de la transcription chez les procaryotes
+	- > planche exemple de la régulation de l'opéron lactose
+	- la transcription eucayote est conduite par diff enzymes:
+		- ***ARN-polymérase I*** qui synthétise les arn ribosomiques (18 S-5, S- 28 S) (dans le noyau)
+		- ***ARN-polymérase II*** qui synthétise les arn messagers et certains snRNA (dans noyau)
+		- ***ARN polymérase III*** qui synthétise les petits arn (tRNA, rRNA 5 S, snRNA, 7SL-RNA)
+		- ARN polymérase mitochondriale qui synthétise tous les ARN mitochondriaux (dans la mitochondrie)
+-
+- ### ***Régulation de la transcription chez les eucaryotes***
+	- > planche expression des gènes chez les eucaryotes
+	- > planche principaux niveaux de régulation de l'expression des gènes dans une cellule eucaryote
+	- ### ***Les acteurs de la transcription eucaryotes***
+		- L'ARN-polymérase II
+		  logseq.order-list-type:: number
+		- Les facteurs généraux de transcription
+		  logseq.order-list-type:: number
+		- Les facteurs de transcription
+		  logseq.order-list-type:: number
+		- les corégulateurs
+		  logseq.order-list-type:: number
+		- > planche structure d'un promoteur eucaryote
+		- rôle des facteurs de transcription dans le recrutement et la stabilisation de l'ARN polymérase au lvl du site d'initiation de la transcription
+		- > planche
+		- > condensation de l'adn
+	- ### ***condensation de l'adn***
+		- hétérochromatine: chromatine très condensée => transcription inactive
+		- euchromatine = chromatine peu condensée => transcription active
+	- ### ***Eucaryotes vs procaryotes***
+		- ![image.png](../assets/image_1717503504325_0.png)
+		- ![image.png](../assets/image_1717504167311_0.png)
+		- [[expression gènes eucaryotes]]
+		- ![image.png](../assets/image_1717504373468_0.png)
+		- ![image.png](../assets/image_1717504386140_0.png)
+		- ![image.png](../assets/image_1717504396319_0.png)
+		- ![image.png](../assets/image_1717504498348_0.png)
+		- ***rappel: exon = utile, intron = on s'en branle***
+		- -
+		- ![image.png](../assets/image_1717504599375_0.png)
+		- pour un unique ARN prémessager, il existe différents devenirs d'ARNm mature: il peut devenir codant de différentes protéines selon comment il est épissé.
+		- {{renderer excalidraw, excalidraw-2024-06-04-14-40-38}}
+		- choix de lrépissage selon la régulation cellulaire (sliceosome se comporte de différentes manières)
+		- {{renderer excalidraw, excalidraw-2024-06-04-14-49-24}}
+		- ## ***exemple du gène alpha-tropomyosine***
+		- [[exos bio fin 2024]]
+		-

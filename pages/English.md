@@ -71,3 +71,6 @@
 - first scene: idk like shes fn leaving or sumn and theyre talking about what they'll do with their day
 - second: helo u want cofe ? yes. okeeeeeeee
 -
+-
+- # ***La sitcom***
+	-

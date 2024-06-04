@@ -1,0 +1,101 @@
+{:blocks (
+{:block/created-at 1717504006295
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 0
+:scale [1 1]
+:type "image"
+:assetId "b2e73050-226d-11ef-af4c-ebc25cf914a2"
+:size [790.5 681.6979293544458]
+:opacity 1
+:id "b2e81ab0-226d-11ef-af4c-ebc25cf914a2"
+:isAspectRatioLocked true
+:isLocked false
+:objectFit "fill"
+:point [408 64]
+:parentId "665f07fc-8610-409b-9374-6a27e279a832"
+:nonce 1717504002074
+:clipping 0}}
+:block/updated-at 1717504006295} 
+{:block/created-at 1717504286062
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "#000000"
+:borderRadius 0
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill "#000000"
+:type "text"
+:size [100 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c7f7f330-226d-11ef-af4c-ebc25cf914a2"
+:padding 4
+:fontWeight 700
+:noFill true
+:point [864 568]
+:lineHeight 1.2
+:fontSize 20
+:parentId "665f07fc-8610-409b-9374-6a27e279a832"
+:nonce 1717504037654
+:italic false
+:text "épissage"}}
+:block/updated-at 1717504286062} 
+{:block/created-at 1717504328418
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "#000000"
+:borderRadius 0
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill "#000000"
+:type "text"
+:size [369 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5dc20cc0-226e-11ef-af4c-ebc25cf914a2"
+:padding 4
+:fontWeight 700
+:noFill true
+:isLocked false
+:point [672 712]
+:lineHeight 1.2
+:fontSize 20
+:parentId "665f07fc-8610-409b-9374-6a27e279a832"
+:nonce 1717504037937
+:italic false
+:text "capping et polyA\\deg : pour protéger"}}
+:block/updated-at 1717504328418})
+:pages (
+{:block/uuid #uuid "665f07fc-8610-409b-9374-6a27e279a832"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "665f07fc-8610-409b-9374-6a27e279a832"
+:name "expression gènes eucaryotes"
+:bindings 
+{}
+:nonce 1
+:assets [
+{:id "b2e73050-226d-11ef-af4c-ebc25cf914a2"
+:type "image"
+:src "../assets/image_1717504001885_0.png"
+:size [821 708]}]
+:shapes-index ("b2e81ab0-226d-11ef-af4c-ebc25cf914a2" "c7f7f330-226d-11ef-af4c-ebc25cf914a2" "5dc20cc0-226e-11ef-af4c-ebc25cf914a2")}}
+:block/journal? false
+:block/updated-at 1717504328418
+:block/created-at 1717503996757
+:block/type "whiteboard"
+:block/name "expression gènes eucaryotes"
+:block/original-name "expression gènes eucaryotes"})}
