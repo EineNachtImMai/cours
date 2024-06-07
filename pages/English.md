@@ -71,6 +71,19 @@
 - first scene: idk like shes fn leaving or sumn and theyre talking about what they'll do with their day
 - second: helo u want cofe ? yes. okeeeeeeee
 -
--
-- # ***La sitcom***
-	-
+- # ***Romeo and Juliet in 15 minutes***
+- shortened version of romeo and juliet
+- like 10min
+- narrator
+- ![image.png](../assets/image_1717743906030_0.png)
+- ![image.png](../assets/image_1717743922780_0.png)
+- ![image.png](../assets/image_1717743938733_0.png)
+- ![image.png](../assets/image_1717743955345_0.png)
+- ![image.png](../assets/image_1717743967659_0.png)
+- intro of everyone & setting the scene
+- window scene
+- wedding between the 2
+- fight and exile from the city
+- gets poison, gets wed, "dies"
+- everyone kills themselves
+- ## BORROW FROM RICOU
