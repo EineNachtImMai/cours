@@ -199,7 +199,7 @@
 	- **objectif:** détention d'une molécule d'ADN ou ARN dans un mélange en contenant des milliers
 	- ## ***southern-blot***
 	  id:: 65fc7b0e-6f79-44b0-bb78-1e50b28e88be
-		- ![image.png](../assets/image_1712665931818_0.png)
+		- ![image.png](../assets/image_1712665931818_0.png){:height 601, :width 567}
 		- ***but:*** detecter la presence des sequences d'ADN specifiques dans un melange
 		- ***Edwin Southern*** eut l'idee de transferer des fragments de restriction separes dans un gel, sur une membrane susceptible de subir le traitement d'hybridation (1975)
 		-
@@ -396,8 +396,8 @@
 	- co-traduits
 -
 - ### ***Régulation de la transciption chez les procaryotes***
-	- > planche modèle simplifié de la régulation de la transcription chez les procaryotes
-	- > planche exemple de la régulation de l'opéron lactose
+	- ![image.png](../assets/image_1718182759641_0.png)
+	- ![image.png](../assets/image_1718182825716_0.png)
 	- la transcription eucayote est conduite par diff enzymes:
 		- ***ARN-polymérase I*** qui synthétise les arn ribosomiques (18 S-5, S- 28 S) (dans le noyau)
 		- ***ARN-polymérase II*** qui synthétise les arn messagers et certains snRNA (dans noyau)
@@ -405,7 +405,7 @@
 		- ARN polymérase mitochondriale qui synthétise tous les ARN mitochondriaux (dans la mitochondrie)
 -
 - ### ***Régulation de la transcription chez les eucaryotes***
-	- > planche expression des gènes chez les eucaryotes
+	- ![image.png](../assets/image_1718182681190_0.png)
 	- > planche principaux niveaux de régulation de l'expression des gènes dans une cellule eucaryote
 	- ### ***Les acteurs de la transcription eucaryotes***
 		- L'ARN-polymérase II
@@ -416,23 +416,21 @@
 		  logseq.order-list-type:: number
 		- les corégulateurs
 		  logseq.order-list-type:: number
-		- > planche structure d'un promoteur eucaryote
+		- ![image.png](../assets/image_1718182858893_0.png)
 		- rôle des facteurs de transcription dans le recrutement et la stabilisation de l'ARN polymérase au lvl du site d'initiation de la transcription
-		- > planche
-		- > condensation de l'adn
+		- ![image.png](../assets/image_1718182932205_0.png)
+		- ![image.png](../assets/image_1718182976945_0.png)
 	- ### ***condensation de l'adn***
 		- hétérochromatine: chromatine très condensée => transcription inactive
 		- euchromatine = chromatine peu condensée => transcription active
 	- ### ***Eucaryotes vs procaryotes***
 		- ![image.png](../assets/image_1717503504325_0.png)
 		- ![image.png](../assets/image_1717504167311_0.png)
-		- [[expression gènes eucaryotes]]
 		- ![image.png](../assets/image_1717504373468_0.png)
 		- ![image.png](../assets/image_1717504386140_0.png)
 		- ![image.png](../assets/image_1717504396319_0.png)
 		- ![image.png](../assets/image_1717504498348_0.png)
 		- ***rappel: exon = utile, intron = on s'en branle***
-		- -
 		- ![image.png](../assets/image_1717504599375_0.png)
 		- pour un unique ARN prémessager, il existe différents devenirs d'ARNm mature: il peut devenir codant de différentes protéines selon comment il est épissé.
 		- {{renderer excalidraw, excalidraw-2024-06-04-14-40-38}}
