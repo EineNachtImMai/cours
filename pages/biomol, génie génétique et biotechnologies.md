@@ -345,10 +345,10 @@
 		- Se différencier en cellule spécialisée sous l’influence de stimuli externes
 	- **Les différents types de cellules souches:**
 		- 4 Types de cellules souches :
-		- -**Totipotente** : tous les types cellulaires y compris les cellules extra-embryonnaire
-		- -**Pluripotente** : toutes les cellules spécialisées d’un individu
-		- -**Multipotente**: plusieurs types de cellules spécialisées
-		- -**Unipotente**: un seul type de cellule spécialisée
+		- -**Totipotente** : ==tous== les types cellulaires ==y compris les cellules extra-embryonnaire==
+		- -**Pluripotente** : ==toutes== les cellules ==spécialisées== d’un individu
+		- -**Multipotente**: ==plusieurs== types de cellules spécialisées
+		- -**Unipotente**: ==un seul== type de cellule spécialisée
 	- Fécondation: fusion des noyaux du spermatozoïde et de l’ovule.
 	- Puis le zygote(l'oeuf) subit des divisions mitotiques consécutives et rapides:
 - La segmentation
@@ -406,7 +406,6 @@
 -
 - ### ***Régulation de la transcription chez les eucaryotes***
 	- ![image.png](../assets/image_1718182681190_0.png)
-	- > planche principaux niveaux de régulation de l'expression des gènes dans une cellule eucaryote
 	- ### ***Les acteurs de la transcription eucaryotes***
 		- L'ARN-polymérase II
 		  logseq.order-list-type:: number
