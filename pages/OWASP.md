@@ -1,0 +1,35 @@
+# ***The OWASP testing framework***
+	- ## 1 - Before development begins
+		- 1.1 - define an SDLC (development loop/process)
+		- 1.2 - review policies and standards
+			- policies, guidelines, documentation (document common situations and requirements to avoid having to make decisions that might result in insecure code)
+		- 1.3 - develop measurements and metrics to track progress
+	- ## 2 - during definition and design
+		- 2.1 - review security requirements (how the app works from a security pov)
+			- these have to be tested
+			- should be unambiguous as possible
+		- 2.2 - document design and architecture (how are we going to build this app?)
+			- those need to be tested to ensure their safety
+		- 2.3 - build Unified Modeling Language (UML) models
+			- confirm the exact understanding of how the app is going to work
+		- 2.4 - create and review threat models
+			- assess the design through realistic threat models
+		- **at each step, if a flaw is discovered, change the design to resolve the problem**
+	- ## 3 - during development
+		- 3.1 - code walkthroughs
+			- NOT code reviews, it's just to get the *vibes* of the code (how it works and why it was made that way)
+		- 3.2 - code reviews
+			- review the code against a checklist: requirements, common vulnerabilities, known recurring issues for certain languages / frameworks used, industry-specific requirements
+	- ## 4 - during deployment
+		- 4.1 - application pentesting
+			- checks that every issue has been dealt with
+		- 4.2 - configuration management testing (how the infrastructure was deployed and secured)
+			- these thing might themselves be vulnerable, hence the need for testing
+	- ## 5 - during maintenance and operations
+		- 5.1 - operational management reviews (how the operations of the app AND infrastructure is managed)
+		- 5.2 - regular health checks (monthly or quarterly) on both the app and the infrastructure
+		- 5.3 - change verification
+			- every time a change to the app or infrastructure is made, it is necessary to check it to make sure it doesn't compromise the security of the app
+-
+- ![Typical SDLC Testing Workflow](https://github.com/OWASP/wstg/raw/master/document/3-The_OWASP_Testing_Framework/images/Typical_SDLC_Testing_Workflow.gif)
+-
